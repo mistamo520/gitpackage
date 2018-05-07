@@ -3,3 +3,4 @@ git is free softwate
 first add 
 2018/5/4
 hello world
+Creating a new branch is quick
